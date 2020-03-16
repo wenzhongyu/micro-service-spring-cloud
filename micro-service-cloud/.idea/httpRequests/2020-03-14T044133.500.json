@@ -1,0 +1,1 @@
+{"timestamp":"2020-03-14T08:41:33.483+0000","status":500,"error":"Internal Server Error","message":"500 : [{\"timestamp\":\"2020-03-14T08:40:12.957+0000\",\"status\":500,\"error\":\"Internal Server Error\",\"message\":\"\\n### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'de... (853 bytes)]","path":"/consumer/depart"}

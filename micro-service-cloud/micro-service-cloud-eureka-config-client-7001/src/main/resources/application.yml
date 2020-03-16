@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: micro-service-cloud-eureka-config-client-7001

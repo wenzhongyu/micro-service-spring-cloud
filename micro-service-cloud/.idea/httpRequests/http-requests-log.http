@@ -1,0 +1,316 @@
+POST http://localhost:80/consumer/depart?deptNo=700&deptName=后勤部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T044425.200.json
+
+###
+
+POST http://localhost:80/consumer/depart?deptNo=700&deptName=后勤部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T044350.500.json
+
+###
+
+POST http://localhost:80/consumer/depart?deptNo=700&deptName=后勤部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T044306.500.json
+
+###
+
+POST http://localhost:80/consumer/depart?deptNo=700&deptName=后勤部
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:80/consumer/depart?deptNo=700&deptName=后勤部
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:80/consumer/depart?deptNo=700&deptName=后勤部
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:80/consumer/depart?deptNo=700&deptName=后勤部
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:80/consumer/depart?deptNo=700&deptName=后勤部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T044133.500.json
+
+###
+
+POST http://localhost:80/consumer/depart?deptNo=700&deptName=后勤部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043715.500.json
+
+###
+
+POST http://localhost:80/consumer/depart?deptNo=700&deptName=后勤部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043640.500.json
+
+###
+
+POST http://localhost:80/consumer/depart/?deptNo=700&deptName=后勤部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043631.500.json
+
+###
+
+GET http://localhost:80/consumer/depart/?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043438.200.json
+
+###
+
+GET http://localhost:80/consumer/depart/6?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043431.200.json
+
+###
+
+GET http://localhost:8001/consumer/depart/6?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043424.404.html
+
+###
+
+GET http://localhost:8001/consumer/depart/6?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043402.404.html
+
+###
+
+GET http://localhost:8001/consumer/depart/6?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043355-2.404.html
+
+###
+
+GET http://localhost:8001/consumer/depart/6?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043355-1.404.html
+
+###
+
+GET http://localhost:8001/consumer/depart/6?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043355.404.html
+
+###
+
+GET http://localhost:8001/consumer/depart/6?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043354-2.404.html
+
+###
+
+GET http://localhost:8001/consumer/depart/6?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043354-1.404.html
+
+###
+
+GET http://localhost:8001/consumer/depart/6?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043354.404.html
+
+###
+
+GET http://localhost:8001/consumer/depart/6?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043353.404.html
+
+###
+
+GET http://localhost:8001/consumer/depart/6?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043352.404.html
+
+###
+
+GET http://localhost:8001/consumer/depart/6?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043329.404.html
+
+###
+
+GET http://localhost:8001/consumer/depart/6?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T043311.404.html
+
+###
+
+GET http://localhost:8001/provider/depart/6?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T040142.200.json
+
+###
+
+GET http://localhost:8001/provider/depart/5?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T040140.200.json
+
+###
+
+GET http://localhost:8001/provider/depart/1?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T040137.200.json
+
+###
+
+GET http://localhost:8001/provider/depart?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T035512.200.json
+
+###
+
+POST http://localhost:8001/provider/depart?deptNo=600&deptName=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T035449.200.json
+
+###
+
+POST http://localhost:8001/provider/depart?dept_no=600&dept_name=行政部
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T035352.500.json
+
+###
+
+GET http://localhost:8001/provider/depart
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T035309.200.json
+
+###
+
+GET http://localhost:8001/provider/depart
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-14T035229.500.json
+
+###
+
+GET http://localhost:8001/provider/depart
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8001/provider/depart
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8001/provider
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8001/provider
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8001/depart
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8001/depart
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8001/depart
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8001/depart
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/depart
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/depart
+Accept: */*
+Cache-Control: no-cache
+
+###
+
