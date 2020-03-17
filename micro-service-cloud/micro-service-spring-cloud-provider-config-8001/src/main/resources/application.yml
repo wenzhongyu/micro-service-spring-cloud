@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: micro-service-spring-cloud-provider-config-8001

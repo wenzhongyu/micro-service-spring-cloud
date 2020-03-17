@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="micro-service-spring-cloud-eureka-7001" />
+        <module name="micro-service-spring-cloud-api" />
+        <module name="micro-service-spring-cloud-consumer-80" />
+        <module name="micro-service-spring-cloud-hystrix-dashboard-9001" />
+        <module name="micro-service-spring-cloud-consumer-feign" />
+        <module name="micro-service-spring-cloud-zuul-gateway-9527" />
+        <module name="micro-service-spring-cloud-provider-config-8001" />
+        <module name="micro-service-spring-cloud-config-3344" />
+        <module name="micro-service-spring-cloud-provider-hystrix-8001" />
+        <module name="micro-service-spring-cloud-eureka-7003" />
+        <module name="micro-service-spring-cloud-provider-8003" />
+        <module name="micro-service-spring-cloud-config-client-3366" />
+        <module name="micro-service-spring-cloud-provider-8001" />
+        <module name="micro-service-spring-cloud-provider-8002" />
+        <module name="micro-service-spring-cloud-eureka-config-client-7001" />
+        <module name="micro-service-spring-cloud-eureka-7002" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo2" target="1.8" />
+      <module name="micro-service-cloud-api" target="1.8" />
+      <module name="micro-service-cloud-config-client-3355" target="1.8" />
+      <module name="micro-service-cloud-consumer-feign" target="1.8" />
+      <module name="micro-service-cloud-eureka-7001" target="1.8" />
+      <module name="micro-service-cloud-eureka-7001 (1)" target="1.8" />
+      <module name="micro-service-cloud-eureka-7003" target="1.8" />
+      <module name="micro-service-cloud-feign" target="1.8" />
+      <module name="micro-service-cloud-hystrix-dashboard-9001" target="1.8" />
+      <module name="micro-service-cloud-provider-8002" target="1.8" />
+      <module name="micro-service-cloud-provider-hystrix-8001" target="1.8" />
+      <module name="micro-service-cloud-provider-hystrix-9001" target="1.8" />
+      <module name="micro-service-cloud-zuul-gateway-9527" target="1.8" />
+      <module name="spring-cloud-build" target="1.7" />
+      <module name="spring-cloud-openfeign-dependencies" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo2" options="-parameters" />
+      <module name="micro-service-cloud-api" options="-parameters" />
+      <module name="micro-service-cloud-config-client-3355" options="-parameters" />
+      <module name="micro-service-cloud-consumer-feign" options="-parameters" />
+      <module name="micro-service-cloud-eureka-7001" options="-parameters" />
+      <module name="micro-service-cloud-eureka-7001 (1)" options="-parameters" />
+      <module name="micro-service-cloud-eureka-7003" options="-parameters" />
+      <module name="micro-service-cloud-feign" options="-parameters" />
+      <module name="micro-service-cloud-hystrix-dashboard-9001" options="-parameters" />
+      <module name="micro-service-cloud-provider-8002" options="-parameters" />
+      <module name="micro-service-cloud-provider-hystrix-8001" options="-parameters" />
+      <module name="micro-service-cloud-provider-hystrix-9001" options="-parameters" />
+      <module name="micro-service-cloud-zuul-gateway-9527" options="-parameters" />
+      <module name="micro-service-spring-cloud-api" options="-parameters" />
+      <module name="micro-service-spring-cloud-config-3344" options="-parameters" />
+      <module name="micro-service-spring-cloud-config-client-3366" options="-parameters" />
+      <module name="micro-service-spring-cloud-consumer-80" options="-parameters" />
+      <module name="micro-service-spring-cloud-consumer-feign" options="-parameters" />
+      <module name="micro-service-spring-cloud-eureka-7001" options="-parameters" />
+      <module name="micro-service-spring-cloud-eureka-7002" options="-parameters" />
+      <module name="micro-service-spring-cloud-eureka-7003" options="-parameters" />
+      <module name="micro-service-spring-cloud-eureka-config-client-7001" options="-parameters" />
+      <module name="micro-service-spring-cloud-hystrix-dashboard-9001" options="-parameters" />
+      <module name="micro-service-spring-cloud-provider-8001" options="-parameters" />
+      <module name="micro-service-spring-cloud-provider-8002" options="-parameters" />
+      <module name="micro-service-spring-cloud-provider-8003" options="-parameters" />
+      <module name="micro-service-spring-cloud-provider-config-8001" options="-parameters" />
+      <module name="micro-service-spring-cloud-provider-hystrix-8001" options="-parameters" />
+      <module name="micro-service-spring-cloud-zuul-gateway-9527" options="-parameters" />
+    </option>
+  </component>
+</project>

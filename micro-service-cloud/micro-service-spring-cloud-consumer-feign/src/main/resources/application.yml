@@ -1,0 +1,25 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /consumer-feign
+
+spring:
+  application:
+    name: micro-service-spring-cloud-consumer-feign
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001:7001/eureka/,http://eureka7002:7002/eureka/,http://eureka7003:7003/eureka/
+    register-with-eureka: false
+  instance:
+    instance-id: consumer-feign
+    prefer-ip-address: true
+
+
+feign:
+  hystrix:
+    enabled: true
+
+info:
+  tips: hello Spring cloud!!!
