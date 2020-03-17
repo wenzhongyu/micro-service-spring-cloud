@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bd2bf4a-953f-4bda-aba2-aba9d86e7e30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZEr9ROx9rMRqGM79pZscX2yJ1F" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MicroServiceCloudEurekaConfigClient7001Application">
+    <configuration name="MicroServiceCloudConfigClient3366Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-spring-cloud-config-client-3366" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bkb.cloud.MicroServiceCloudConfigClient3366Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroServiceCloudEurekaConfigClient7001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-spring-cloud-eureka-config-client-7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bkb.cloud.MicroServiceCloudEurekaConfigClient7001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroServiceCloudProvider8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-spring-cloud-provider-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bkb.cloud.MicroServiceCloudProvider8001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroServiceCloudProvider8002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-spring-cloud-provider-8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bkb.cloud.MicroServiceCloudProvider8002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroServiceCloudProvider8003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-spring-cloud-provider-8003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bkb.cloud.MicroServiceCloudProvider8003Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroServiceCloudProviderConfig8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-spring-cloud-provider-config-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bkb.cloud.MicroServiceCloudProviderConfig8001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroServiceCloudProviderHystrix8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-spring-cloud-provider-hystrix-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bkb.hystrix.MicroServiceCloudProviderHystrix8001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bd2bf4a-953f-4bda-aba2-aba9d86e7e30" name="Default Changelist" comment="" />
+      <created>1584414942514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584414942514</updated>
+      <workItem from="1584414945965" duration="673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="250" key="SettingsEditor" timestamp="1584415774453">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="461" y="250" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1584415774453" />
+    <state x="560" y="351" key="Vcs.Push.Dialog.v2" timestamp="1584415378895">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="560" y="351" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1584415378895" />
+  </component>
+</project>
