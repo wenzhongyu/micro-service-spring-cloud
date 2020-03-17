@@ -7,8 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="micro-service-cloud-provider-config-8001" />
-        <module name="micro-service-cloud-provider-hystrix-8001" />
-        <module name="micro-service-cloud-consumer-feign" />
+        <module name="micro-service-cloud-provider-8001" />
         <module name="micro-service-cloud-api" />
         <module name="micro-service-cloud-config-client-3366" />
         <module name="micro-service-cloud-config-3344" />
@@ -17,16 +16,12 @@
         <module name="micro-service-cloud-eureka-7001" />
         <module name="micro-service-cloud-provider-8003" />
         <module name="micro-service-cloud-provider-8002" />
-        <module name="micro-service-cloud-hystrix-dashboard-9001" />
+        <module name="micro-service-cloud-provider-hystrix-8001" />
+        <module name="micro-service-cloud-consumer-feign" />
         <module name="micro-service-cloud-consumer-80" />
         <module name="micro-service-cloud-eureka-config-client-7001" />
+        <module name="micro-service-cloud-hystrix-dashboard-9001" />
         <module name="micro-service-cloud-zuul-gateway-9527" />
-      </profile>
-      <profile name="Annotation profile for micro-service-cloud" enabled="true">
-        <sourceOutputDir name="../micro-service-cloud-provider-config-8001/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../micro-service-cloud-provider-config-8001/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="micro-service-cloud-provider-8001" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
