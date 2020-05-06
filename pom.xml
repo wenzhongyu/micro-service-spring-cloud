@@ -24,7 +24,7 @@
         <module>micro-service-spring-cloud-provider-8002</module>
         <module>micro-service-spring-cloud-provider-8003</module>
         <module>micro-service-spring-cloud-consumer-80</module>
-        <module>micro-service-spring-cloud-consumer-feign</module>
+        <module>micro-service-spring-cloud-consumer-feign-8081</module>
         <module>micro-service-spring-cloud-eureka-7001</module>
         <module>micro-service-spring-cloud-eureka-7002</module>
         <module>micro-service-spring-cloud-eureka-7003</module>

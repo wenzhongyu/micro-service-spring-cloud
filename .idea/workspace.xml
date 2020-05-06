@@ -2,13 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bd2bf4a-953f-4bda-aba2-aba9d86e7e30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-spring-cloud-provider-8001/src/main/java/com/bkb/cloud/task/AddTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-spring-cloud-consumer-feign/micro-service-spring-cloud-consumer-feign.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-spring-cloud-consumer-feign/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-spring-cloud-consumer-feign/src/main/java/com/bkb/cloud/MicroServiceCloudConsumerFeignApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-spring-cloud-consumer-feign/src/main/java/com/bkb/cloud/config/RestConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-spring-cloud-consumer-feign/src/main/java/com/bkb/cloud/controller/DepartConsumerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-spring-cloud-consumer-feign/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-spring-cloud-provider-8001/src/main/java/com/bkb/cloud/controller/DepartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-spring-cloud-provider-8001/src/main/java/com/bkb/cloud/controller/DepartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-spring-cloud-provider-8001/src/main/resources/mybatis/mapper/DepartMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-spring-cloud-provider-8001/src/main/resources/mybatis/mapper/DepartMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,15 +39,29 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -36,10 +70,49 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MicroServiceCloudEurekaConfigClient7001Application">
+  <component name="RunManager" selected="Spring Boot.MicroServiceCloudEureka7003Application">
     <configuration name="MicroServiceCloudConfigClient3366Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="micro-service-spring-cloud-config-client-3366" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.bkb.cloud.MicroServiceCloudConfigClient3366Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroServiceCloudEureka7001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="micro-service-spring-cloud-eureka-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bkb.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bkb.eureka.MicroServiceCloudEureka7001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroServiceCloudEureka7002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="micro-service-spring-cloud-eureka-7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bkb.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bkb.eureka.MicroServiceCloudEureka7002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroServiceCloudEureka7003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="micro-service-spring-cloud-eureka-7003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bkb.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bkb.eureka.MicroServiceCloudEureka7003Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,28 +159,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+    <recent_temporary>
       <list>
-        <serviceView>
-          <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
-            <select />
-          </treeState>
-        </serviceView>
+        <item itemvalue="Spring Boot.MicroServiceCloudEureka7001Application" />
+        <item itemvalue="Spring Boot.MicroServiceCloudEureka7003Application" />
+        <item itemvalue="Spring Boot.MicroServiceCloudEureka7002Application" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -120,23 +178,122 @@
       <option name="presentableId" value="Default" />
       <updated>1584414942514</updated>
       <workItem from="1584414945965" duration="673000" />
+      <workItem from="1588211591478" duration="222000" />
+      <workItem from="1588211947160" duration="666000" />
+      <workItem from="1588212634254" duration="70000" />
+      <workItem from="1588212719961" duration="607000" />
+      <workItem from="1588213343747" duration="2002000" />
+      <workItem from="1588219110911" duration="519000" />
+      <workItem from="1588219753240" duration="84000" />
+      <workItem from="1588219850263" duration="279000" />
+      <workItem from="1588220172586" duration="804000" />
+      <workItem from="1588221064924" duration="1299000" />
+      <workItem from="1588500761048" duration="3190000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="250" key="SettingsEditor" timestamp="1584415774453">
+    <state x="323" y="445" key="#SQL_Dialects" timestamp="1588170698444">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="461" y="250" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1584415774453" />
+    <state x="323" y="445" key="#SQL_Dialects/0.23.1920.1177@0.23.1920.1177" timestamp="1588170698444" />
+    <state x="560" y="277" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588501725107">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="560" y="277" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1588501725107" />
+    <state x="709" y="488" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1588221048853">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="709" y="488" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1588221048853" />
+    <state width="1294" height="322" key="GridCell.Tab.0.bottom" timestamp="1588521028278">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1294" height="322" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1588521028278" />
+    <state width="1294" height="322" key="GridCell.Tab.0.center" timestamp="1588521028277">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1294" height="322" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1588521028277" />
+    <state width="1294" height="322" key="GridCell.Tab.0.left" timestamp="1588521028277">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1294" height="322" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1588521028277" />
+    <state width="1294" height="322" key="GridCell.Tab.0.right" timestamp="1588521028277">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1294" height="322" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1588521028277" />
+    <state width="1294" height="322" key="GridCell.Tab.1.bottom" timestamp="1588521028278">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1294" height="322" key="GridCell.Tab.1.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1588521028278" />
+    <state width="1294" height="322" key="GridCell.Tab.1.center" timestamp="1588521028278">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1294" height="322" key="GridCell.Tab.1.center/0.23.1920.1177@0.23.1920.1177" timestamp="1588521028278" />
+    <state width="1294" height="322" key="GridCell.Tab.1.left" timestamp="1588521028278">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1294" height="322" key="GridCell.Tab.1.left/0.23.1920.1177@0.23.1920.1177" timestamp="1588521028278" />
+    <state width="1294" height="322" key="GridCell.Tab.1.right" timestamp="1588521028278">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1294" height="322" key="GridCell.Tab.1.right/0.23.1920.1177@0.23.1920.1177" timestamp="1588521028278" />
+    <state width="1294" height="322" key="GridCell.Tab.2.bottom" timestamp="1588521028279">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1294" height="322" key="GridCell.Tab.2.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1588521028279" />
+    <state width="1294" height="322" key="GridCell.Tab.2.center" timestamp="1588521028278">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1294" height="322" key="GridCell.Tab.2.center/0.23.1920.1177@0.23.1920.1177" timestamp="1588521028278" />
+    <state width="1294" height="322" key="GridCell.Tab.2.left" timestamp="1588521028278">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1294" height="322" key="GridCell.Tab.2.left/0.23.1920.1177@0.23.1920.1177" timestamp="1588521028278" />
+    <state width="1294" height="322" key="GridCell.Tab.2.right" timestamp="1588521028279">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1294" height="322" key="GridCell.Tab.2.right/0.23.1920.1177@0.23.1920.1177" timestamp="1588521028279" />
+    <state width="243" height="457" key="HiddenNamespacesPopup" timestamp="1588501836100">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="243" height="457" key="HiddenNamespacesPopup/0.23.1920.1177@0.23.1920.1177" timestamp="1588501836100" />
+    <state x="548" y="353" key="IDE.errors.dialog" timestamp="1588501202597">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="548" y="353" key="IDE.errors.dialog/0.23.1920.1177@0.23.1920.1177" timestamp="1588501202597" />
+    <state x="617" y="281" key="NewModule_or_Project.wizard" timestamp="1588212562285">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="617" y="281" key="NewModule_or_Project.wizard/0.23.1920.1177@0.23.1920.1177" timestamp="1588212562285" />
+    <state x="158" y="226" key="SettingsEditor" timestamp="1588222425986">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="158" y="226" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1588222425986" />
+    <state width="717" height="456" key="SwitcherDM" timestamp="1588211741913">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="717" height="456" key="SwitcherDM/0.23.1920.1177@0.23.1920.1177" timestamp="1588211741913" />
     <state x="560" y="351" key="Vcs.Push.Dialog.v2" timestamp="1584415378895">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="560" y="351" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1584415378895" />
+    <state x="765" y="500" width="390" height="259" key="com.intellij.database.actions.DdlActions$CommentOnObjectAction$1" timestamp="1588500788005">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="765" y="500" width="390" height="259" key="com.intellij.database.actions.DdlActions$CommentOnObjectAction$1/0.23.1920.1177@0.23.1920.1177" timestamp="1588500788005" />
+    <state width="500" height="350" key="documentation.popup.size" timestamp="1588222565520">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="500" height="350" key="documentation.popup.size/0.23.1920.1177@0.23.1920.1177" timestamp="1588222565520" />
+    <state x="625" y="262" width="670" height="676" key="search.everywhere.popup" timestamp="1588212897781">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="625" y="262" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1588212897781" />
   </component>
 </project>

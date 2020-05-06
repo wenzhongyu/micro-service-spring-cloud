@@ -20,7 +20,7 @@
         update Depart set dept_name = #{deptName} where id = #{id}
     </update>
 
-    <delete id="deleteDepart">
+    <delete id="deleteDepartById">
         delete from Depart where id = #{id}
     </delete>
 </mapper>

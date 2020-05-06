@@ -47,10 +47,10 @@ public class DepartController {
 
     @GetMapping(value = "/discovery")
     public List<ServiceInstance> discovery() {
-        List<ServiceInstance> services = discoveryClient.getInstances("micro-service-spring-cloud-PROVIDER-8001");
+        List<ServiceInstance> services = discoveryClient.getInstances("micro-service-spring-cloud-provider-8001");
         System.out.println("*********" + services);
-        for (ServiceInstance service: services) {
-            System.out.println(service.getHost() + " ---- "+ service.getPort() + " --- " + service.getUri() + " ------ " + service.getServiceId());
+        for (ServiceInstance service : services) {
+            System.out.println(service.getHost() + " ---- " + service.getPort() + " --- " + service.getUri() + " ------ " + service.getServiceId());
         }
         return services;
     }
