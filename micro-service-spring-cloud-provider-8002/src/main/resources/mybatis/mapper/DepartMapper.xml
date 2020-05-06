@@ -2,7 +2,7 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.bkb.dashboard.mapper.DepartMapper">
+<mapper namespace="com.bkb.cloud.mapper.DepartMapper">
 
     <select id="findDepartById" resultType="com.bkb.cloud.entity.Depart">
         select * from Depart where id = #{id}
@@ -20,7 +20,7 @@
         update Depart set dept_name = #{deptName} where id = #{id}
     </update>
 
-    <delete id="deleteDepart">
+    <delete id="deleteDepartById">
         delete from Depart where id = #{id}
     </delete>
 </mapper>

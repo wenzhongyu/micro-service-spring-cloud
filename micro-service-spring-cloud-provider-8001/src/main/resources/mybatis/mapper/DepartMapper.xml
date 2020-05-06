@@ -9,7 +9,7 @@
     </select>
 
     <select id="findAll" resultType="com.bkb.cloud.entity.Depart">
-        select * from Depart
+        select * from Depart limit 10
     </select>
 
     <insert id="insertDepart">

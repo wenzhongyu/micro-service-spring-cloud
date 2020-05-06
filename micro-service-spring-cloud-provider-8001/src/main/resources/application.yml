@@ -5,7 +5,7 @@ server:
 
 spring:
   application:
-    name: micro-service-spring-cloud-provider2
+    name: micro-service-spring-cloud-provider
   datasource:
     username: root
     password: 547W612Zh2019

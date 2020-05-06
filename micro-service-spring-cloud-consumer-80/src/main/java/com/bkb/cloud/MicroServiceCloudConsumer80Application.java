@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.ribbon.RibbonClient;
 
 @EnableEurekaClient
 @SpringBootApplication
-@RibbonClient(name = "micro-service-spring-cloud-PROVIDER", configuration = MySelfRule.class)
+@RibbonClient(name = "micro-service-spring-cloud-provider", configuration = MySelfRule.class)
 public class MicroServiceCloudConsumer80Application {
 
     public static void main(String[] args) {

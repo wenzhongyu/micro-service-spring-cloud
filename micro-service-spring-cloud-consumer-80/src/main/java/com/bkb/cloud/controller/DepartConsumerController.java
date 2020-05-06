@@ -12,7 +12,7 @@ import java.util.List;
 public class DepartConsumerController {
 
 //    private static final String REST_URL_PREFIX = "http://localhost:8001";
-    private static final String REST_URL_PREFIX = "http://micro-service-spring-cloud-PROVIDER";
+    private static final String REST_URL_PREFIX = "http://micro-service-spring-cloud-provider";
 
     @Autowired
     private RestTemplate restTemplate;

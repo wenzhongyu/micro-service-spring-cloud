@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import java.util.List;
 
-@FeignClient(name = "micro-service-spring-cloud-PROVIDER", path = "/provider", fallbackFactory = DepartClientServiceFallbackFactory.class)
+@FeignClient(name = "micro-service-spring-cloud-provider", path = "/provider")//, fallbackFactory = DepartClientServiceFallbackFactory.class)
 public interface DepartClientService {
 
     @RequestMapping(value = "/depart", method = RequestMethod.GET)
